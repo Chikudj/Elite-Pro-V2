@@ -3,15 +3,15 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2348109263390"
-global.ownername = "Elite-Pro-V2"
+global.ownernomer = "255675104490"
+global.ownername = "DJ BOT"
 global.ytname = "YT: ElitePro"
 global.socialm = "GitHub: elite-md"
-global.location = "Nigeria, Port Harcourt"
+global.location = "Nairobi, Kenya"
 
-global.ownernumber = '2348109263390'  //creator number
-global.ownername = 'Elite-Pro-V2' //owner name
-global.botname = 'ELITE-PRO-V2' //name of the bot
+global.ownernumber = '234810926339'  //creator number
+global.ownername = 'DJ BOT' //owner name
+global.botname = 'SUPER DJ' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
@@ -29,12 +29,12 @@ global.prefa = ['','!','.','#','&']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
-global.autoTyping = false //auto typing
+global.autoTyping = true //auto typing
 global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = true //auto update bio
 global.anti92 = false //auto block +92 
-global.autoswview = false //auto view status/story
+global.autoswview = true //auto view status/story
 
 //menu type 
 //v1 is image menu, 
@@ -53,7 +53,7 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 global.mess = {
     done: 'Done !',
     prem: 'This feature can be used by premium user only',
-    admin: 'This feature can be used by admin only',
+    admin: 'This feature can be used by admin DJ only',
     botAdmin: 'This feature can only be used when the bot is a group admin ',
     owner: 'This feature can be used by owner only',
     group: 'This feature is only for groups',
