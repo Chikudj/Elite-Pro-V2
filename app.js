@@ -1,5 +1,5 @@
 {
-    "name"; "Elite-Pro-V2",
+    "name"; "DJ 🍎",
     "description"; "WhatsApp War Bot Using Nodejs",
     "repository"; "https://github.com/Elite-MD/Elite-Pro-V2",
     "logo"; "https://telegra.ph/file/d71d98957589073bd6e41.jpg?format=jpg&name=900x900",
